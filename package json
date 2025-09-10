@@ -1,0 +1,7 @@
+{
+  "name": "my-netlify-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node netlify/functions/index.js"
+  }
+}
